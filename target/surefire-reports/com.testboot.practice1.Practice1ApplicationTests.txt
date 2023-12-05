@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.testboot.practice1.Practice1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.108 s - in com.testboot.practice1.Practice1ApplicationTests
